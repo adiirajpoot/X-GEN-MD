@@ -25,16 +25,16 @@ import moment from 'moment-timezone'
 
 /*==============USER-INFO==============*/
 global.owner = [
-  ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
+  ['923041784138', '𝗔𝗱𝗶𝗶 𝗥𝗮𝗷𝗽𝗼𝗼𝘁', true], 
   ['put your number', 'your-name', true] 
 ] 
 
-global.mods = ['put-your-number','8801853262586'] //Don't replace this,If you want to add someone add any dev
-global.prems = ['put-premium-user-number','']
-global.nomorbot = 'your-bot-number' //Change it to your own
-global.nomorown = 'owner-number' //Change it to your own
-global.namebot = 'bot-name' //change it to your own
-global.nameown = 'owner-name' // change it to your own
+global.mods = ['put-your-number','923041784138'] //Don't replace this,If you want to add someone add any dev
+global.prems = ['put-premium-user-number','923041784138']
+global.nomorbot = '923041784138' //Change it to your own
+global.nomorown = '923041784138' //Change it to your own
+global.namebot = 'ᴛʜᴇ ᴀᴅɪɪ-ʙᴏᴛ' //change it to your own
+global.nameown = 'v' // change it to your own
 
 //*============= ==============*/
 
@@ -72,7 +72,7 @@ let wibh = moment.tz('Asia/Dhaka').format('HH')
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
 global.sig = 'https://instagram.com/sla.sher_' //Link Instagrammu
-global.sgh = 'https://github.com/X-S-L-A-S-H-E-R/X-GEN-MD' //Link Githubmu
+//global.sgh = 'https://github.com/X-S-L-A-S-H-E-R/X-GEN-MD' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/Iah40dk4H2EClu9HqlCxdH'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
 global.snh = 'https://nhentai.net/g/HaramTod' //Hmmm, This is up to you to fill in :v
@@ -118,16 +118,16 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 x-ɢᴇɴ-ᴍᴅ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Slasher_Ser- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'x-ɢᴇɴ-ᴍᴅ'
-global.footerTXT = `x-ɢᴇɴ-ᴍᴅ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +880 1853 262586`
-global.fig = `Follow me on instagram:\n\t\tinstagram.com/sla.sher_`
+global.wm = '「 ᴀᴅɪɪ ʀᴀᴊᴘᴏᴏᴛ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴀᴅɪɪ ʀᴀᴊᴘᴏᴏᴛ- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = 'ᴀᴅɪɪ ʀᴀᴊᴘᴏᴏᴛ'
+global.footerTXT = `ᴛʜᴇ ᴀᴅɪɪ-ʙᴏᴛ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +923041784138`
+global.fig = `Follow me on whatsapp:https://wa.link/ppmcfd_`
 global.botdate = `🛑 Date: ${week} ${date}`
 global.bottime = `🧑‍💻 Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ x-ɢᴇɴ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ ᴛʜᴇ ᴀᴅɪɪ-ʙᴏᴛ'
 global.author = global.wm
-global.logo = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg'
+global.logo = 'https://ibb.co/VCskC4b'
 
 
 
@@ -153,7 +153,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+880 1853 262586'
+global.phn = '+92 304 1784138'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -196,7 +196,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 global.stickpack = 'x_sla.sher_'
 global.stickauth = `「 x-ɢᴇɴ-ᴍᴅ 」`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ x-ɢᴇɴ-ᴍᴅ'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀᴅɪɪ ʀᴀᴊᴘᴏᴏᴛ'
 
 global.multiplier = 38 // The higher, The harder levelup
 
